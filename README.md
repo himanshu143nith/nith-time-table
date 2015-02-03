@@ -5,3 +5,8 @@ a pull request.
 Contributors:
 Divyanshu Maithani
 Himanshu Sharma
+<<<<<<< HEAD
+=======
+Ruchir Dhiman
+Hanish Sharma
+>>>>>>> upstream/master
